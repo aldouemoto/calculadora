@@ -49,10 +49,10 @@ label {
 	background: none;
 	border: 2px solid #fff;
 	cursor: pointer;
-	height: 35px;
+	height: 30px;
 	margin: 0;
 	vertical-align: middle;
-	width: 35px;
+	width: 30px;
 }
 
 input[type="radio"]:checked +label {
